@@ -1,0 +1,26 @@
+{
+  "name": "larry-state",
+  "version": "1.0.0",
+  "description": "This is global State management library by larry",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^4.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "package.json"
+  ]
+}
