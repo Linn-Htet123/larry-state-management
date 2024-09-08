@@ -15,7 +15,7 @@ If you're using yarn, run:
 yarn add larry-state
 ```
 
-Reach out full [Documentation](https://duckduckgo.com "larry-state react state management").
+Reach out full [Documentation](https://larrystate.vercel.app "larry-state react state management").
 
 ### What is **larry-state**?
 
@@ -45,4 +45,4 @@ At the core of **larry-state** is a provider component that wraps your applicati
 
 This combination of flexibility, simplicity, and performance makes **larry-state** an excellent choice for React developers looking for a lightweight yet powerful solution to global state management.
 
-Reach out full [Documentation](https://duckduckgo.com "larry-state react state management").
+Reach out full [Documentation](https://larrystate.vercel.app "larry-state react state management").
