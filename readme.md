@@ -1,8 +1,20 @@
----
-title: Introduction
-sidebar_position: 1
-description: Overview of larry-state
----
+
+To install **larry-state**, follow these simple steps to add it to your React project:
+
+#### Install via npm or yarn:
+
+If you're using npm, run:
+
+```bash
+npm install larry-state
+```
+
+If you're using yarn, run:
+
+```bash
+yarn add larry-state
+```
+
 Reach out full [Documentation](https://duckduckgo.com "larry-state react state management").
 
 ### What is **larry-state**?
